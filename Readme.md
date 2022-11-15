@@ -1,5 +1,5 @@
 <h1>CSC-254-01-Fall-2022 Homework 10</h1>
-This project is an assignment in the CSC 254 class offered by <a href="https://www.missouriwestern.edu/">Missouri Western State University</a>. Some wording has been modified from the original assignment, both to remove links and to make instructions clearer.
+This project is an assignment in the CSC 254 class offered by <a href="https://www.missouriwestern.edu/">Missouri Western State University</a>. Some wording has been modified from the original assignment, to make instructions clearer.
 
 Given the file [states.csv](states.csv), output the following information about the states:
 
